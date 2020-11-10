@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">Test</string>
-    <string name="button">Press me</string>
-    <string name="text">David</string>
-    <string name="text2">Acke</string>
+    <string name="app_name">Beer Adviser</string>
+    <string name="button">Find Beer!</string>
 </resources>

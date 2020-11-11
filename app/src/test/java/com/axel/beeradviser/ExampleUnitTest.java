@@ -1,4 +1,4 @@
-package com.axel.myfirstapp;
+package com.axel.beeradviser;
 
 import org.junit.Test;
 

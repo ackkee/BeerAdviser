@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="find_beer">Hitta Öl!</string>
+    <string name="brands">Ingen öl vald</string>
+</resources>
